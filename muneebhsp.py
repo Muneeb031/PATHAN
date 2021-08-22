@@ -39,7 +39,7 @@ def jalan(z):
 logo = """
    Asif Javed
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
+   THE ANONYMOU MUNEEB TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    MUNEEB PATHAN HACKER
